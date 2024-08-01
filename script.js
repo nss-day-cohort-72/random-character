@@ -1,8 +1,10 @@
 const races = [
-    "Human",
     "Elf",
     "Dwarf",
-    "Orc"
+    "Orc",
+    "Ent",
+    "Goblin",
+    "Hobbit"
 ];
 
 const classes = [
