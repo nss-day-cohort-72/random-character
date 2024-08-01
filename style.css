@@ -1,0 +1,31 @@
+/* Body style */
+body {
+    background-color: #f4f1e6; /* Light parchment-like background */
+    color: #2b2b2b; /* Dark text for readability */
+    font-family: 'Cinzel', serif; /* Elegant, fantasy-like font */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+/* Header style */
+h1 {
+    font-family: 'Uncial Antiqua', cursive; /* Decorative fantasy font */
+    font-size: 36px;
+    color: #6b4226; /* Dark brown color */
+    margin-bottom: 20px;
+}
+
+/* Paragraph style */
+p {
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
+    color: #5a3d31; /* Slightly lighter brown for contrast */
+    max-width: 600px;
+    margin: 0 20px;
+}
